@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    text-align: center;
+
+}
+
+.contant{
+    display: flex;
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.W_h1{
+    color: black;
+}
+
+.H_h1{
+    display: none;
+}
